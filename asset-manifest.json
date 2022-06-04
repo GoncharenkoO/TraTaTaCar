@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TraTaTaCar/static/css/main.073c9b0a.css",
+    "main.js": "/TraTaTaCar/static/js/main.789dc19c.js",
+    "static/js/787.633816a4.chunk.js": "/TraTaTaCar/static/js/787.633816a4.chunk.js",
+    "static/media/logo.svg": "/TraTaTaCar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TraTaTaCar/index.html",
+    "main.073c9b0a.css.map": "/TraTaTaCar/static/css/main.073c9b0a.css.map",
+    "main.789dc19c.js.map": "/TraTaTaCar/static/js/main.789dc19c.js.map",
+    "787.633816a4.chunk.js.map": "/TraTaTaCar/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.789dc19c.js"
+  ]
+}
